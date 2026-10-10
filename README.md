@@ -1,148 +1,221 @@
 <!--
-  Likhitha Sai Pacha — GitHub Profile README
-  Repository name must match your GitHub username: likhithasaipacha2504
-  Before publishing, replace the TODO project links/descriptions with your real repositories.
+  =============================================================================
+  ✨ PACHA LIKHITHA SAI — PROFESSIONAL GITHUB PROFILE ✨
+  AI/ML Engineer • Software Development Engineer • Innovation Enthusiast
+  =============================================================================
 -->
 
 <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FF4D6D,25:C850C0,55:7B2FF7,80:3A86FF,100:00D4FF&text=Likhitha%20Sai%20Pacha&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=AI%2FML%20%7C%20Software%20Development%20%7C%20Innovation&descAlignY=60&descSize=16&animation=twinkling" alt="Colorful animated profile header" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF1361,25:FFF800,50:00F0FF,75:7000FF,100:FF007F&text=Likhitha%20Sai%20Pacha&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=18&animation=twinkling" alt="Colorful Animated Header Banner" />
 
-<a href="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B+I'm+Likhitha;AI%2FML+enthusiast+%F0%9F%A4%96;Software+developer+%F0%9F%92%BB;Turning+ideas+into+useful+applications+%E2%9C%A8;Always+learning%2C+building%2C+and+sharing+%F0%9F%9A%80">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey+there!+%F0%9F%91%8B+I'm+Likhitha;AI%2FML+enthusiast+%F0%9F%A4%96;Software+developer+%F0%9F%92%BB;Turning+ideas+into+useful+applications+%E2%9C%A8;Always+learning%2C+building%2C+and+sharing+%F0%9F%9A%80" alt="Animated typing intro" />
+<!-- Dynamic Animated Typing SVG -->
+<a href="https://linkedin.com/in/likhitha-pacha-a2a03033a">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+there!+%F0%9F%91%8B+I'm+Likhitha+Sai+Pacha;AI%2FML+Engineer+%7C+Building+Intelligent+Solutions+%F0%9F%A4%96;Full-Stack+Developer+%7C+Java%2C+Python%2C+TypeScript+%F0%9F%92%BB;Turning+Complex+Problems+Into+Elegant+Code+%E2%9C%A8;Open+to+AI%2FML+%26+Software+Engineering+Opportunities!+%F0%9F%9A%80" alt="Dynamic Typing Intro" />
 </a>
 
-<p>
-  <a href="https://github.com/likhithasaipacha2504"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
-  <a href="https://www.linkedin.com/in/likhitha-pacha-a2a03033a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://www.hackerrank.com/profile/likhitha_pacha11"><img src="https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <img src="https://komarev.com/ghpvc/?username=likhithasaipacha2504&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+<!-- Profile Navigation & Social Badges -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/likhitha-pacha-a2a03033a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:likhitha.pacha123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/likhithasaipacha2504">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/likhitha_pacha11" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=likhithasaipacha2504&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" alt="Profile Views Counter"/>
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=for-the-badge&logo=target&logoColor=white" alt="Open To Work"/>
 </p>
-
-### 🤖 AI/ML Enthusiast · 💻 Software Developer · ✨ Lifelong Learner
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+### 👩‍💻 About Me
 
-Hi! I'm **Likhitha Sai Pacha**, a Computer Science graduate from Malla Reddy University, Hyderabad, interested in building practical software and AI-powered solutions.
+```yaml
+name: Pacha Likhitha Sai
+role: AI/ML Engineer & Software Development Engineer
+education: Computer Science & Engineering, Malla Reddy University
+location: Hyderabad, Telangana, India
+passions:
+  - Designing intelligent AI/ML models & predictive architectures
+  - Engineering performant full-stack & backend systems
+  - Innovating in hackathons and solving real-world challenges
+current_focus: Building GenAI-powered applications & mastering distributed backend systems
+looking_for: Software Engineer (SDE), AI/ML Engineer, Full-Stack Developer Roles
+```
 
-- 🧠 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**
-- 💻 Enjoy building with **Java, Python, SQL, web technologies, and APIs**
-- 🛠️ Exploring backend development, databases, containers, and DevOps tools
-- 🏆 Have participated in hackathons and student innovation initiatives
-- 🤝 Interested in meaningful open-source collaboration and software/AI opportunities
-- 📍 Hyderabad, Telangana, India
+- 🔭 **What I'm working on:** Architecting intelligent apps integrating **Google Gemini GenAI**, **Supabase**, and modern web frameworks.
+- 💡 **Core Expertise:** Deep Learning, Machine Learning algorithms, Full-Stack Engineering, Data Structures & Algorithms, RESTful APIs.
+- 🏆 **Track Record:** Winner of multiple competitive hackathons (**Ideathon 2.0**, **Promptathon**, **Hack-A-Thon 1.0**) and **Smart India Hackathon** Finalist.
+- 📫 **How to reach me:** [likhitha.pacha123@gmail.com](mailto:likhitha.pacha123@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/likhitha-pacha-a2a03033a).
 
-> I enjoy turning ideas into working projects, learning from feedback, and improving one commit at a time.
+---
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack & Tools
 
 <div align="center">
 
-**Languages**
+#### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,html,css&theme=dark" alt="Languages"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,sql&theme=dark" alt="Python, Java, JavaScript and SQL icons"/>
+#### 🧠 Artificial Intelligence & Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI & ML Frameworks"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google%20Gemini-GenAI%20SDK-8E75C4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini GenAI SDK"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+</p>
 
-**Development & Databases**
+#### 🌐 Full-Stack & Web Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,spring,nodejs,express,bootstrap&theme=dark" alt="Frameworks & Web"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,spring,nodejs,html,css,mysql,mongodb,firebase&theme=dark" alt="Development and database technology icons"/>
-
-**AI, Tools & DevOps**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,git,github,docker,kubernetes,terraform,linux,vscode&theme=dark" alt="AI, tools and DevOps icons"/>
+#### 🗄️ Databases, Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,docker,git,github,postman,linux,vscode&theme=dark" alt="Databases, Cloud and Tools"/>
+</p>
 
 </div>
 
-*The icons represent areas I've worked with or explored; individual project READMEs should specify the exact technologies used.*
+---
 
-## 🚀 Featured Projects
-
-> **Personalize this section before publishing:** replace the `TODO` links and summaries below with your actual repositories. A smaller set of well-documented projects is stronger than inaccurate project claims.
+### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI/ML Project</h3>
-      <p>Showcase your strongest machine-learning or AI application here.</p>
-      <p><b>Include:</b> problem, approach, dataset or inputs, evaluation, screenshots/demo, and limitations.</p>
-      <a href="https://github.com/likhithasaipacha2504?tab=repositories">🔗 Add your repository link</a>
+      <h3>🏥 <a href="https://github.com/likhithasaipacha2504/NRCM">GeoSick — AI Disease Surveillance</a></h3>
+      <p><b>AI-powered geospatial disease and outbreak surveillance platform.</b> Employs Google Gemini GenAI inference alongside Supabase for real-time risk tracking, clustering, and disease mapping.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Google%20GenAI-8E75C4?style=flat-square&logo=google&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+      </p>
+      <p>👉 <a href="https://github.com/likhithasaipacha2504/NRCM"><b>View Repository & Documentation ➜</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ Voice / Audio Intelligence</h3>
-      <p>If you publish your voice-cloning or fake-voice detection project, explain the detection approach and evaluation results here.</p>
-      <p><b>Include:</b> model, dataset source, metrics, and a reproducible setup.</p>
-      <a href="https://github.com/likhithasaipacha2504?tab=repositories">🔗 Add your repository link</a>
+      <h3>🌐 <a href="https://github.com/likhithasaipacha2504/nuerax">Neurax — 3D Geospatial AI Platform</a></h3>
+      <p><b>Immersive 3D geospatial intelligence environment.</b> Blends Three.js 3D spatial computing with Google Maps visualization and Gemini GenAI to inspect and reason over spatial data.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+        <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" alt="Google Maps"/>
+        <img src="https://img.shields.io/badge/Google%20GenAI-8E75C4?style=flat-square&logo=google&logoColor=white" alt="GenAI"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+      </p>
+      <p>👉 <a href="https://github.com/likhithasaipacha2504/nuerax"><b>View Repository & Documentation ➜</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 Java Backend / Wallet API</h3>
-      <p>Showcase a Java/Spring Boot backend with REST endpoints, persistence, validation, and API documentation.</p>
-      <p><b>Include:</b> architecture, endpoint examples, database schema, and Postman/Swagger instructions.</p>
-      <a href="https://github.com/likhithasaipacha2504?tab=repositories">🔗 Add your repository link</a>
+      <h3>⚡ <a href="https://github.com/likhithasaipacha2504/ARTHA-SRM">ARTHA — SRM Hackathon Innovation</a></h3>
+      <p><b>Hackathon-winning intelligent platform.</b> Developed under high-intensity competition featuring full-stack real-time state synchronization, Firebase database integration, and intelligent assistive workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Google%20GenAI-8E75C4?style=flat-square&logo=google&logoColor=white" alt="GenAI"/>
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+      </p>
+      <p>👉 <a href="https://github.com/likhithasaipacha2504/ARTHA-SRM"><b>View Repository & Documentation ➜</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌐 Full-Stack Application</h3>
-      <p>Feature a polished web app with a clear user problem, responsive UI, and a working backend.</p>
-      <p><b>Include:</b> live demo, screenshots, setup instructions, and future improvements.</p>
-      <a href="https://github.com/likhithasaipacha2504?tab=repositories">🔗 Add your repository link</a>
+      <h3>📊 <a href="https://github.com/likhithasaipacha2504/project-code">AI & Machine Learning Research Lab</a></h3>
+      <p><b>Data science & predictive modeling workflows.</b> In-depth exploratory data analysis (EDA), statistical preprocessing, regression/classification experiments, and neural network pipelines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      </p>
+      <p>👉 <a href="https://github.com/likhithasaipacha2504/project-code"><b>View Repository & Documentation ➜</b></a></p>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub at a Glance
+---
+
+### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=likhithasaipacha2504&show_icons=true&rank_icon=github&include_all_commits=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=9B5DE5&text_color=E6EDF3" alt="GitHub stats card"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasaipacha2504&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=E6EDF3" alt="Most used languages card"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=likhithasaipacha2504&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=E6EDF3" alt="GitHub Overview Statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasaipacha2504&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=E6EDF3" alt="Top Languages Card" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=likhithasaipacha2504&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=FCA311&currStreakLabel=F75C7E" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=likhithasaipacha2504&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=FF9E00&currStreakLabel=4CC9F0" alt="GitHub Contribution Streak" />
 </div>
 
-## 📈 Contribution Activity
-
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasaipacha2504&bg_color=0D1117&color=F75C7E&line=9B5DE5&point=00D4FF&area=true&hide_border=true" alt="GitHub contribution activity graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasaipacha2504&bg_color=0D1117&color=F72585&line=7209B7&point=4CC9F0&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </div>
 
-## 🐍 Contribution Snake
+---
+
+### 🏆 Honors, Awards & Certifications
+
+- 🥇 **1st Prize — Ideathon 2.0** (Top innovation award for technical problem-solving & prototype presentation)
+- 🥇 **1st Prize — Promptathon** (Winner for advanced prompt engineering & Generative AI workflows)
+- 🥉 **3rd Prize — Hack-A-Thon 1.0** (High-intensity software hackathon recognition)
+- 🏅 **Finalist — Smart India Hackathon (SIH)** (National level technical innovation hackathon)
+- 📜 **Certified — Microsoft Azure AI Fundamentals** (Foundational AI concepts and cloud AI services)
 
 <div align="center">
-  <!-- This image becomes available after the snake workflow succeeds and publishes the output branch. -->
+  <img src="https://github-profile-trophy.vercel.app/?username=likhithasaipacha2504&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Profile Trophies" />
+</div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/output/github-snake.svg"/>
-    <img alt="Animated snake following my GitHub contribution graph" src="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/output/github-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/output/github-snake.svg" />
   </picture>
 </div>
 
-## 🏆 Achievements & Learning
+---
 
-- 🥇 **Ideathon 2.0** — First Prize *(confirm event name and details before publishing)*
-- 🥇 **Promptathon** — First Prize *(confirm event name and details before publishing)*
-- 🥉 **Hack-A-Thon 1.0** — Third Prize *(confirm event name and details before publishing)*
-- 🏅 **Smart India Hackathon** — Finalist *(confirm year/category before publishing)*
-- 📜 **Microsoft Azure AI Fundamentals** *(add the official credential link if available)*
+### 🤝 Let's Connect & Collaborate!
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=likhithasaipacha2504&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies"/>
-</div>
 
-## 🌐 Let's Connect
+Looking for a driven **AI/ML Engineer** or **Software Developer** who loves building impact-driven products? Let's talk!
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/likhitha-pacha-a2a03033a"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/></a>
-  <a href="https://github.com/likhithasaipacha2504"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/></a>
-  <a href="https://www.hackerrank.com/profile/likhitha_pacha11"><img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank" alt="HackerRank profile"/></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/likhitha-pacha-a2a03033a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:likhitha.pacha123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-likhitha.pacha123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/likhithasaipacha2504">
+    <img src="https://img.shields.io/badge/GitHub-likhithasaipacha2504-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/likhitha_pacha11" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-likhitha__pacha11-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,30:3A86FF,60:7B2FF7,100:FF4D6D&height=110&section=footer&animation=twinkling" alt="Colorful animated footer"/>
-  <b>✨ Thanks for visiting — let's build something meaningful! ✨</b>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,25:7000FF,50:FF007F,75:FFF800,100:FF1361&height=120&section=footer&animation=twinkling" alt="Colorful Animated Footer Banner" />
+
+<p align="center">
+  <b>⭐ Designed with passion by PACHA LIKHITHA SAI ⭐</b>
+</p>
+
 </div>
