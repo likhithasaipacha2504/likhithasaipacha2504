@@ -7,17 +7,15 @@
 
 <div align="center">
 
-<!-- Animated Custom High-Contrast Cyber Header Banner -->
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/main/assets/header.svg" alt="Likhitha Sai Pacha — AI/ML Engineer and Software Developer" />
-</p>
+<!-- Modern Vibrant Gradient Wave Header (High contrast, no washed-out colors) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:3b82f6,35:6366f1,70:8b5cf6,100:ec4899&text=Likhitha%20Sai%20Pacha&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=16&animation=twinkling" alt="Likhitha Sai Pacha Header Banner" />
 
-<!-- Dynamic Animated Typing SVG -->
+<!-- Responsive Typing Animation (Sized to fit perfectly without horizontal cutoff) -->
 <a href="https://linkedin.com/in/likhitha-pacha-a2a03033a">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=Hi+there!+%F0%9F%91%8B+I'm+Likhitha+Sai+Pacha;AI%2FML+Engineer+%7C+Building+Intelligent+Solutions+%F0%9F%A4%96;Full-Stack+Developer+%7C+Java%2C+Python%2C+TypeScript+%F0%9F%92%BB;Turning+Complex+Problems+Into+Elegant+Code+%E2%9C%A8;Open+to+AI%2FML+%26+Software+Engineering+Opportunities!+%F0%9F%9A%80" alt="Dynamic Typing Intro" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi+there!+%F0%9F%91%8B+I'm+Likhitha+Sai+Pacha;AI%2FML+Engineer+%26+Researcher+%F0%9F%A4%96;Full-Stack+Software+Developer+%F0%9F%92%BB;Building+Intelligent+AI+Solutions+%E2%9C%A8;Open+to+SDE+%26+AI%2FML+Opportunities!+%F0%9F%9A%80" alt="Dynamic Typing Intro" />
 </a>
 
-<!-- Profile Navigation & Social Badges -->
+<!-- Clean, Symmetrical Social & Status Badges (Zero broken images) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/likhitha-pacha-a2a03033a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
@@ -31,64 +29,57 @@
   <a href="https://www.hackerrank.com/profile/likhitha_pacha11" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Practice-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Profile"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=likhithasaipacha2504&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" alt="Profile Views Counter"/>
-  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=for-the-badge&logo=target&logoColor=white" alt="Open To Work"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=flat-square&logo=target&logoColor=white" alt="Open To Work"/>
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%26%20Full--Stack-6366F1?style=flat-square&logo=codeforces&logoColor=white" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
 </p>
 
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### 🌟 About Me
 
-```yaml
-name: Pacha Likhitha Sai
-role: AI/ML Engineer & Software Development Engineer
-education: Computer Science & Engineering, Malla Reddy University
-location: Hyderabad, Telangana, India
-passions:
-  - Designing intelligent AI/ML models & predictive architectures
-  - Engineering performant full-stack & backend systems
-  - Innovating in hackathons and solving real-world challenges
-current_focus: Building GenAI-powered applications & mastering distributed backend systems
-looking_for: Software Engineer (SDE), AI/ML Engineer, Full-Stack Developer Roles
-```
+> 🎓 **Computer Science & Engineering Graduate** from **Malla Reddy University**, Hyderabad.  
+> 💡 Passionate about building **intelligent AI/ML architectures**, **Generative AI applications**, and **scalable backend systems**.
 
-- 🔭 **What I'm working on:** Architecting intelligent apps integrating **Google Gemini GenAI**, **Supabase**, and modern web frameworks.
-- 💡 **Core Expertise:** Deep Learning, Machine Learning algorithms, Full-Stack Engineering, Data Structures & Algorithms, RESTful APIs.
-- 🏆 **Track Record:** Winner of multiple competitive hackathons (**Ideathon 2.0**, **Promptathon**, **Hack-A-Thon 1.0**) and **Smart India Hackathon** Finalist.
-- 📫 **How to reach me:** [likhithapacha4@gmail.com](mailto:likhithapacha4@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/likhitha-pacha-a2a03033a).
+- 🔭 **Currently Building:** Real-world AI applications with **Google Gemini GenAI**, **Supabase**, and modern web stacks.
+- 🧠 **Technical Focus:** Machine Learning, Deep Learning, Cloud APIs, Data Structures & Algorithms.
+- 🏆 **Hackathon Highlights:** 1st Prize at **Ideathon 2.0** & **Promptathon** • 3rd Prize at **Hack-A-Thon 1.0** • **Smart India Hackathon** Finalist.
+- 💼 **Available For:** AI/ML Engineer, SDE, and Full-Stack Developer roles.
+- 📫 **Reach Out:** [likhithapacha4@gmail.com](mailto:likhithapacha4@gmail.com) • [LinkedIn Profile](https://www.linkedin.com/in/likhitha-pacha-a2a03033a)
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack
 
 <div align="center">
 
-#### 💻 Programming Languages
 <p align="center">
+  <b>Core Languages</b><br/>
   <img src="https://skillicons.dev/icons?i=python,java,ts,js,cpp,html,css&theme=dark" alt="Languages"/>
 </p>
 
-#### 🧠 Artificial Intelligence & Machine Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI & ML Frameworks"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Gemini-GenAI%20SDK-8E75C4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini GenAI SDK"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+  <b>Artificial Intelligence & Data Science</b><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI & ML Frameworks"/><br/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-GenAI%20SDK-8E75C4?style=flat-square&logo=google&logoColor=white" alt="Gemini GenAI SDK"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
 </p>
 
-#### 🌐 Full-Stack & Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,spring,nodejs,express,bootstrap&theme=dark" alt="Frameworks & Web"/>
+  <b>Frameworks, Databases & Cloud</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,spring,nodejs,express,mysql,postgres,mongodb,firebase,supabase&theme=dark" alt="Frameworks and Databases"/>
 </p>
 
-#### 🗄️ Databases, Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase,docker,git,github,postman,linux,vscode&theme=dark" alt="Databases, Cloud and Tools"/>
+  <b>DevOps & Developer Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vscode&theme=dark" alt="Tools and DevOps"/>
 </p>
 
 </div>
@@ -153,16 +144,16 @@ looking_for: Software Engineer (SDE), AI/ML Engineer, Full-Stack Developer Roles
 ### 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=likhithasaipacha2504&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&icon_color=4CC9F0&text_color=E6EDF3" alt="GitHub Overview Statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasaipacha2504&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=F72585&text_color=E6EDF3" alt="Top Languages Card" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=likhithasaipacha2504&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" alt="GitHub Overview Statistics" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhithasaipacha2504&layout=compact&langs_count=8&theme=radical&hide_border=false" alt="Top Languages Card" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=likhithasaipacha2504&theme=radical&hide_border=true&background=0D1117&ring=F72585&fire=FF9E00&currStreakLabel=4CC9F0" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com?user=likhithasaipacha2504&theme=radical&hide_border=false" alt="GitHub Contribution Streak" />
 </div>
 
 <div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasaipacha2504&bg_color=0D1117&color=F72585&line=7209B7&point=4CC9F0&area=true&hide_border=true" alt="Contribution Activity Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhithasaipacha2504&bg_color=141321&color=F72585&line=7209B7&point=4CC9F0&area=true&hide_border=true" alt="Contribution Activity Graph" />
 </div>
 
 ---
@@ -197,7 +188,9 @@ looking_for: Software Engineer (SDE), AI/ML Engineer, Full-Stack Developer Roles
 
 <div align="center">
 
-Looking for a driven **AI/ML Engineer** or **Software Developer** who loves building impact-driven products? Let's talk!
+<p align="center">
+  <b>Looking for a driven AI/ML Engineer or Software Developer? Let's connect!</b>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/likhitha-pacha-a2a03033a" target="_blank">
@@ -214,9 +207,8 @@ Looking for a driven **AI/ML Engineer** or **Software Developer** who loves buil
   </a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/main/assets/footer.svg" alt="Footer Banner" />
-</p>
+<!-- Matching Sleek Wave Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,35:6366f1,70:8b5cf6,100:ec4899&height=110&section=footer&animation=twinkling" alt="Footer Banner" />
 
 <p align="center">
   <b>⭐ Designed with passion by PACHA LIKHITHA SAI ⭐</b>
