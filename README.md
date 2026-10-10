@@ -203,8 +203,8 @@ Looking for a driven **AI/ML Engineer** or **Software Developer** who loves buil
   <a href="https://www.linkedin.com/in/likhitha-pacha-a2a03033a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:likhitha.pacha123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-likhitha.pacha123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:likhithapacha4@gmail.com">
+    <img src="https://img.shields.io/badge/Email-likhithapacha4@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/likhithasaipacha2504">
     <img src="https://img.shields.io/badge/GitHub-likhithasaipacha2504-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
