@@ -57,7 +57,7 @@ looking_for: Software Engineer (SDE), AI/ML Engineer, Full-Stack Developer Roles
 - 🔭 **What I'm working on:** Architecting intelligent apps integrating **Google Gemini GenAI**, **Supabase**, and modern web frameworks.
 - 💡 **Core Expertise:** Deep Learning, Machine Learning algorithms, Full-Stack Engineering, Data Structures & Algorithms, RESTful APIs.
 - 🏆 **Track Record:** Winner of multiple competitive hackathons (**Ideathon 2.0**, **Promptathon**, **Hack-A-Thon 1.0**) and **Smart India Hackathon** Finalist.
-- 📫 **How to reach me:** [likhitha.pacha123@gmail.com](mailto:likhitha.pacha123@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/likhitha-pacha-a2a03033a).
+- 📫 **How to reach me:** [likhithapacha4@gmail.com](mailto:likhithapacha4@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/likhitha-pacha-a2a03033a).
 
 ---
 
