@@ -7,8 +7,10 @@
 
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF1361,25:FFF800,50:00F0FF,75:7000FF,100:FF007F&text=Likhitha%20Sai%20Pacha&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=62&descSize=18&animation=twinkling" alt="Colorful Animated Header Banner" />
+<!-- Animated Custom High-Contrast Cyber Header Banner -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/main/assets/header.svg" alt="Likhitha Sai Pacha — AI/ML Engineer and Software Developer" />
+</p>
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://linkedin.com/in/likhitha-pacha-a2a03033a">
@@ -212,7 +214,9 @@ Looking for a driven **AI/ML Engineer** or **Software Developer** who loves buil
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,25:7000FF,50:FF007F,75:FFF800,100:FF1361&height=120&section=footer&animation=twinkling" alt="Colorful Animated Footer Banner" />
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/likhithasaipacha2504/likhithasaipacha2504/main/assets/footer.svg" alt="Footer Banner" />
+</p>
 
 <p align="center">
   <b>⭐ Designed with passion by PACHA LIKHITHA SAI ⭐</b>

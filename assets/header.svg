@@ -1,0 +1,193 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e17" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+
+    <!-- Neon Text Gradient -->
+    <linearGradient id="titleGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8">
+        <animate attributeName="stop-color" values="#38bdf8;#c084fc;#f472b6;#38bdf8" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#c084fc">
+        <animate attributeName="stop-color" values="#c084fc;#f472b6;#38bdf8;#c084fc" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#38bdf8;#c084fc;#f472b6" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Border Gradient -->
+    <linearGradient id="borderGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Wave 1 Gradient -->
+    <linearGradient id="waveGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.25" />
+      <stop offset="50%" stop-color="#8b5cf6" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.25" />
+    </linearGradient>
+
+    <!-- Wave 2 Gradient -->
+    <linearGradient id="waveGradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.3" />
+      <stop offset="50%" stop-color="#a855f7" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.3" />
+    </linearGradient>
+
+    <!-- Ambient Glows -->
+    <radialGradient id="glowLeft" cx="15%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowRight" cx="85%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowCenter" cx="50%" cy="50%" r="45%">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0" />
+    </radialGradient>
+
+    <filter id="glowFilter" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <style>
+      .title-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 800;
+        font-size: 50px;
+        letter-spacing: 2px;
+      }
+      .subtitle-text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-weight: 500;
+        font-size: 20px;
+        letter-spacing: 1.5px;
+        fill: #94a3b8;
+      }
+      .tag-text {
+        font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+        font-size: 13px;
+        font-weight: 600;
+        letter-spacing: 0.5px;
+        fill: #e2e8f0;
+      }
+      .constellation-line {
+        stroke: #38bdf8;
+        stroke-opacity: 0.2;
+        stroke-width: 1;
+        stroke-dasharray: 4, 4;
+      }
+      .node-dot {
+        fill: #38bdf8;
+        opacity: 0.7;
+      }
+      @keyframes floatSlow {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-6px); }
+      }
+      @keyframes pulseDot {
+        0%, 100% { opacity: 0.3; transform: scale(0.9); }
+        50% { opacity: 0.9; transform: scale(1.2); }
+      }
+      .floating-group {
+        animation: floatSlow 6s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Base Card with Border -->
+  <rect x="2" y="2" width="1196" height="336" rx="20" ry="20" fill="url(#bgGradient)" />
+  <rect x="2" y="2" width="1196" height="336" rx="20" ry="20" fill="none" stroke="url(#borderGradient)" stroke-width="2" opacity="0.65" />
+
+  <!-- Ambient Glow Spots -->
+  <rect x="0" y="0" width="1200" height="340" rx="20" fill="url(#glowLeft)" />
+  <rect x="0" y="0" width="1200" height="340" rx="20" fill="url(#glowRight)" />
+  <rect x="0" y="0" width="1200" height="340" rx="20" fill="url(#glowCenter)" />
+
+  <!-- Constellation / AI Neural Network Background Lines -->
+  <g class="constellation-bg">
+    <!-- Left AI Cluster -->
+    <line x1="80" y1="90" x2="160" y2="60" class="constellation-line" />
+    <line x1="160" y1="60" x2="220" y2="120" class="constellation-line" />
+    <line x1="80" y1="90" x2="120" y2="180" class="constellation-line" />
+    <line x1="120" y1="180" x2="220" y2="120" class="constellation-line" />
+    <line x1="160" y1="60" x2="130" y2="230" class="constellation-line" />
+    <circle cx="80" cy="90" r="4" class="node-dot" />
+    <circle cx="160" cy="60" r="5" fill="#a855f7" opacity="0.8" />
+    <circle cx="220" cy="120" r="3.5" class="node-dot" />
+    <circle cx="120" cy="180" r="4.5" fill="#ec4899" opacity="0.8" />
+    <circle cx="130" cy="230" r="3" class="node-dot" />
+
+    <!-- Right AI Cluster -->
+    <line x1="1120" y1="90" x2="1040" y2="60" class="constellation-line" />
+    <line x1="1040" y1="60" x2="980" y2="120" class="constellation-line" />
+    <line x1="1120" y1="90" x2="1080" y2="180" class="constellation-line" />
+    <line x1="1080" y1="180" x2="980" y2="120" class="constellation-line" />
+    <line x1="1040" y1="60" x2="1070" y2="230" class="constellation-line" />
+    <circle cx="1120" cy="90" r="4" class="node-dot" />
+    <circle cx="1040" cy="60" r="5" fill="#38bdf8" opacity="0.8" />
+    <circle cx="980" cy="120" r="3.5" class="node-dot" />
+    <circle cx="1080" cy="180" r="4.5" fill="#a855f7" opacity="0.8" />
+    <circle cx="1070" cy="230" r="3" class="node-dot" />
+  </g>
+
+  <!-- Modern Dynamic Waves at Bottom -->
+  <path d="M 0 300 Q 300 240 600 280 T 1200 270 L 1200 340 L 0 340 Z" fill="url(#waveGradient1)" />
+  <path d="M 0 310 Q 300 270 600 295 T 1200 285 L 1200 340 L 0 340 Z" fill="url(#waveGradient2)" />
+
+  <!-- Main Hero Content -->
+  <g class="floating-group" text-anchor="middle">
+    <!-- Greeting Pill -->
+    <rect x="510" y="38" width="180" height="32" rx="16" fill="#1e293b" fill-opacity="0.8" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.6" />
+    <text x="600" y="59" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#38bdf8" letter-spacing="1">
+      ✨ HELLO WORLD ✨
+    </text>
+
+    <!-- Main Title with Glowing Gradient -->
+    <text x="600" y="130" class="title-text" fill="url(#titleGradient)" filter="url(#glowFilter)">
+      Likhitha Sai Pacha
+    </text>
+
+    <!-- Professional Subtitle -->
+    <text x="600" y="172" class="subtitle-text">
+      AI/ML Engineer &amp; Researcher • Full-Stack Developer • Problem Solver
+    </text>
+
+    <!-- Tech Badges / Pills Row -->
+    <g transform="translate(0, 205)">
+      <!-- Pill 1: AI / GenAI -->
+      <g transform="translate(290, 0)">
+        <rect x="0" y="0" width="180" height="34" rx="17" fill="#1e1b4b" fill-opacity="0.85" stroke="#8b5cf6" stroke-width="1" />
+        <circle cx="20" cy="17" r="4" fill="#a855f7" />
+        <text x="96" y="22" text-anchor="middle" class="tag-text">🤖 AI &amp; Generative AI</text>
+      </g>
+
+      <!-- Pill 2: Full-Stack & Systems -->
+      <g transform="translate(485, 0)">
+        <rect x="0" y="0" width="230" height="34" rx="17" fill="#0f2942" fill-opacity="0.85" stroke="#0ea5e9" stroke-width="1" />
+        <circle cx="20" cy="17" r="4" fill="#38bdf8" />
+        <text x="122" y="22" text-anchor="middle" class="tag-text">💻 Full-Stack Development</text>
+      </g>
+
+      <!-- Pill 3: Hackathon Winner & Honors -->
+      <g transform="translate(730, 0)">
+        <rect x="0" y="0" width="180" height="34" rx="17" fill="#3b0724" fill-opacity="0.85" stroke="#f43f5e" stroke-width="1" />
+        <circle cx="20" cy="17" r="4" fill="#fb7185" />
+        <text x="96" y="22" text-anchor="middle" class="tag-text">🏆 Hackathon Winner</text>
+      </g>
+    </g>
+  </g>
+</svg>
